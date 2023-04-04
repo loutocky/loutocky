@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loutocky
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Vue.js & NodeJS / NestJS
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning NodeJS / NestJS
 - 💞️ I’m looking to collaborate on WebApp projects
 - 📫 You can reach me on jaroslav@lousoft.cz
 
